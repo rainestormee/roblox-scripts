@@ -10,4 +10,4 @@ while true do
 	lighting:setMinutesAfterMidnight(lighting:getMinutesAfterMidnight() + timeChange)
 	wait(timeWait)
 end
---[ https://github/
+--[ https://github.com/rainestormee/roblox-scripts/RainesDayCycle.lua
